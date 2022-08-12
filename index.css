@@ -1,0 +1,25 @@
+body {
+	/*background-color: #3e1881;*/
+	background-image: linear-gradient(to left, purple, blue);
+	font-family: "Lucida Console";
+	color: white;
+}
+
+hr {
+	color: black;
+}
+a {
+	color: cyan;
+}
+.button {
+  margin-top: 10px;
+  margin-bottom:10px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  background-color: cyan;
+  border: none;
+  color: blue;
+  padding: 8px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
